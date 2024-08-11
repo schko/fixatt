@@ -1,4 +1,4 @@
-# Code package for Fixating on Attention
+# Code package for the paper "Gaze-Informed Vision Transformers: Predicting Driving Decisions Under Uncertainty"
 
 Environment: Setup using https://huggingface.co/docs/timm/installation#from-source (see **NOTE 1**).
 
